@@ -1,6 +1,7 @@
 <br/>
 <br/>
-![WoWScrnShot](https://user-images.githubusercontent.com/59726045/137213506-4714246e-029c-4229-b32d-5ff3b9271143.png)
+![WoW](https://user-images.githubusercontent.com/59726045/137293074-fd9e5c43-1d35-4467-b8e0-402432e4992c.png)
+
 <br/>
 <br/>
 <br/>
@@ -22,7 +23,8 @@ In the add-on we get the desired data in an infinity loop, then we use a techniq
 This is how I Convert data to color:<br/><br/>
 <br/>
 <br/>
-![wowbot_xy](https://user-images.githubusercontent.com/59726045/137213627-29516395-9cf0-4ebd-b83d-3938f705f808.png)
+![wowbot_xy](https://user-images.githubusercontent.com/59726045/137293389-3c93056b-5da3-42d0-a84e-0b5f98fd2cc3.png)
+
 <br/>
 <br/>
 first, we should cut the number to 5 digits, then by converting that binary number to the hexadecimal and when we want to get the data from color for the Bot App, we just scan that color, and by converting its hexadecimal number to decimal we collect data in the bot application
