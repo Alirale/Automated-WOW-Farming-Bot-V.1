@@ -22,7 +22,8 @@ This is how I Convert data to color:<br/><br/>
 <br/>
 <br/>
 First, I had to cut the number to 5 digits, then by converting that binary number to the hexadecimal I got a hexadecimal number like "1048c".
-In order to convert that hexadecimal number to a color, I just add a zero at first of the number after that I had a "#01048c" Color! and the last step was converting that number to that specific box color.
+In order to convert that hexadecimal number to a color, I just add a zero before the number.<br/>
+After that I had a "#01048c" Color! and the last step was converting that number to that specific box color.
 Also, when I wanted to get the data from color For the Bot App, I just scanned that color, and by converting that hexadecimal number to decimal I could collect the data that the bot application needed.
 <br/>
 <br/>
