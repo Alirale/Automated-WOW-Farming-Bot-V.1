@@ -20,7 +20,9 @@ This is how I Convert data to color:<br/><br/>
 ![wowbot_xy](https://user-images.githubusercontent.com/59726045/137293389-3c93056b-5da3-42d0-a84e-0b5f98fd2cc3.png)
 <br/>
 <br/>
-First, we should cut the number to 5 digits, then by converting that binary number to the hexadecimal and when we want to get the data from color for the Bot App, we just scan that color, and by converting its hexadecimal number to decimal we collect data in the bot application
+First, I had to cut the number to 5 digits, then by converting that binary number to the hexadecimal I got a hexadecimal number like "1048c".
+In order to convert that hexadecimal number to a color, I just add a zero at first of the number after that I had a "#01048c" Color! and the last step was converting that number to that specific box color.
+Also, when I wanted to get the data from color For the Bot App, I just scanned that color, and by converting that hexadecimal number to decimal I could collect the data that the bot application needed.
 <br/>
 <br/>
 <br/><br/><br/>
