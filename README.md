@@ -3,7 +3,7 @@
 <br/>
 <br/>
 This repository has an application that is used to automate a procedure in some games called farming.
-For farming, you should kill some NPC in-game and loot them using a toy.
+For farming, you should kill some NPC in-game and loot them by using a toy.
 to make all that works automatic, we should gather some data from the game such as (X, Y) position, facing angle in-game map, money amount of the character, the character name and etc.
 <br/>
 <br/>
@@ -17,7 +17,8 @@ In the add-on we get the desired data in an infinity loop, then we use a techniq
 <br/>
 <br/><br/><br/>
 This is how I Convert data to color:<br/><br/>
-![wowbot_xy](https://user-images.githubusercontent.com/59726045/137293389-3c93056b-5da3-42d0-a84e-0b5f98fd2cc3.png)
+![wowbot_xy](https://user-images.githubusercontent.com/59726045/137365865-8fc15df1-409c-424c-9539-83d02c8a2d48.png)
+
 <br/>
 <br/>
 First, I had to cut the number to 5 digits, then by converting that binary number to the hexadecimal I got a hexadecimal number like "1048c".
